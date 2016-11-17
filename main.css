@@ -4,3 +4,17 @@
 body {
   background-color: lightgrey;
 }
+
+
+#header {
+	font-family: Helvetica, sans-serif;
+}
+
+#content {
+	font-family: Arial, sans-serif;
+}
+
+
+/************************************
+NAVIGATION
+***********************************/
