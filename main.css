@@ -7,12 +7,47 @@ body {
 
 
 #header {
+  background-color: lightgrey;
 	font-family: Helvetica, sans-serif;
+  display: block;
+  float: left;
+  width: 20%;
+  height: 100%;
+  text-align: center;
 }
 
 #content {
+  background-color: grey;
 	font-family: Arial, sans-serif;
+  float: left;
+  height: 100%;
+  align-content: center;
+  text-align: center;
+  width: 80%;
 }
+
+#article {
+  background-color: white;
+  display: block;
+  margin-left: 15%;
+  margin-top: 5%;
+  width: 800px;
+  height: auto;
+}
+
+
+img.center {
+  display: block;
+  margin-top: 5%;
+  width: 800px;
+  height: auto;
+}
+
+#article-text {
+  text-align: justify;
+  padding: 1% 3%;
+}
+
 
 
 /************************************
